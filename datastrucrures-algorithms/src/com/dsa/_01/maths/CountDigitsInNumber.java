@@ -1,10 +1,10 @@
 package com.dsa._01.maths;
 
-public class CountDigits {
+public class CountDigitsInNumber {
 
     public static void main(String args[]) {
         int count = 0;
-        int numberCount = 798666;
+        int numberCount = 7986668;
 
         while(numberCount > 0) {
 
